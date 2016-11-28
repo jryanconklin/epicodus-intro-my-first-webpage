@@ -22,7 +22,7 @@ _The kitten photos on the "my favorite things" page are not rendering properly._
 
 ## Support and contact details
 
-_Contact Ryan or Matt at example@example.com!_
+_Contact Ryan at jryanconklin@gmail.com_
 
 ## Technologies Used
 
